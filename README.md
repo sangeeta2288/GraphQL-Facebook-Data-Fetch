@@ -6,7 +6,9 @@ This fetches user's id and name followed by his/her friends. Again in friend's s
 Run the command to install
 
 npm install
+
 Then this command to start the Server
 
 npm start
+
 Go to your browser and type http://localhost:8899/GraphQL
